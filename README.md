@@ -32,3 +32,10 @@ cd agarda-vector-core
 pip install -r requirements.txt
 python vector_core.py
 ```
+
+## Контакты / Связь с Архитектором
+
+Для предложений по развитию нелинейных ИИ-сред, интеграции сверхлегкого инференса A.G.A.R.D.A. и координации суверенных инженеров:
+
+*   **Email**: [Logopotopo@gmail.com](mailto:Logopotopo@gmail.com)
+*   **Эфир**: Матрица UNIT_77 синхронизирована
