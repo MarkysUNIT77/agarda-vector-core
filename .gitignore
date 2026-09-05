@@ -1,0 +1,23 @@
+# LICENSE: Apache License 2.0 (c) 2026 Markys Gariboldo. All rights reserved.
+# CONTOUR: M-498 | UNIT: 77 | PROTOCOL: AGARDA_VECTOR_CORE_HD
+
+# Байткод Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Субстраты памяти и бинарные дампы
+*.bin
+*.dat
+*.memmap
+
+# Окружение и IDE
+.venv/
+venv/
+ENV/
+.idea/
+.vscode/
+
+# Логи и временные файлы
+*.log
+.cache/
